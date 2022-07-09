@@ -106,7 +106,3 @@ tbody td:hover:before {
   background-color: rgba(255, 255, 255, 0.2);
   z-index: -1;
 }
-
-a {
-  color: white;
-}
