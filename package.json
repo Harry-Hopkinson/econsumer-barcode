@@ -11,8 +11,7 @@
     "eject": "expo eject",
     "lint": "prettier --check . && eslint App.js",
     "lint:fix": "prettier --write . && eslint App.js --fix",
-    "compile": "expo build:web",
-    "postinstall": "yarn compile"
+    "compile": "expo build:web"
   },
   "dependencies": {
     "@types/react-native": "^0.69.2",
