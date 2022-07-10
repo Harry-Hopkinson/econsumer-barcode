@@ -18,6 +18,9 @@ jobs:
       - name: Yarn 🧶
         run: |
           yarn
+      - name: Install Expo 💽
+        run: |
+          npm install -g expo-cli
       - name: Typescript Compiler 🔨
         run: |
           yarn compile
