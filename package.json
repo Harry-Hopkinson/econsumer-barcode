@@ -26,7 +26,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
-    "react-native-web": "~0.13.12",
+    "react-native-web": "~0.18.0",
     "typescript": "4.7.4",
     "typescript-eslint": "^0.0.1-alpha.0"
   },
