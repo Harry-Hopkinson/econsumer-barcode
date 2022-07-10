@@ -18,9 +18,6 @@ jobs:
       - name: Yarn 🧶
         run: |
           yarn
-      - name: Typescript Builder 🏗️
-        run: |
-          yarn build
       - name: Typescript Compiler 🔨
         run: |
           yarn compile
