@@ -6,7 +6,7 @@ on:
       - main
       - master
   pull_request:
-  
+
 jobs:
   build:
     runs-on: windows-latest

@@ -9,8 +9,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "lint": "prettier --check . && eslint . --ext .js",
-    "lint:fix": "prettier --write . && eslint . --ext .js --fix",
+    "lint": "prettier --check . && eslint App.js",
+    "lint:fix": "prettier --write . && eslint App.js --fix",
     "compile": "expo build:web"
   },
   "dependencies": {
